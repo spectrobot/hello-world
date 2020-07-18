@@ -1,2 +1,6 @@
 # hello-world
-basic repository
+
+MKS
+system international
+
+i like coding, ML, Dl, etc.
